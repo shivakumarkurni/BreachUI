@@ -1,0 +1,89 @@
+{
+  "franchise": [
+    {
+      "name":"Private Banking",
+      "value":1
+    },
+    {
+      "name":"RBSI",
+      "value":2
+    },
+    {
+      "name":"Services",
+      "value":3
+    }
+  ],
+  "businessArea": [
+    {
+      "id":1,
+      "data":[
+        {
+          "name":"Business Banking",
+          "value":1
+        },
+        {
+          "name":"Specialist Banking",
+          "value":2
+        },
+        {
+          "name":"Customer Experience",
+          "value":3
+        },
+        {
+          "name":"Branch and Premier",
+          "value":4
+        }
+      ]      
+    },
+    {
+    "id":2,
+      "data":[
+        {
+          "name":"Executive Office",
+          "value":1
+        },
+        {
+          "name":"Customer Experience",
+          "value":2
+        },
+        {
+          "name":"Personal and Business Banking",
+          "value":3
+        },
+        {
+          "name":"Risk",
+          "value":4
+        },
+        {
+          "name":"Finance",
+          "value":5
+        },
+        {
+          "name":"Transformation",
+          "value":6
+        }
+      ]
+    },
+    {
+      "id":3,
+        "data":[
+          {
+            "name":"Payments",
+            "value":1
+          },
+          {
+            "name":"Shared Services",
+            "value":2
+          },
+          {
+            "name":"CIO Tech",
+            "value":3
+          },
+          {
+            "name":"Innovation and Solutions",
+            "value":4
+          }
+        ]
+      }
+  ]
+}

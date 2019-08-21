@@ -1,0 +1,6 @@
+.active{
+    background-color: #eee !important;
+}
+.non-active{
+    background-color:transparent !important;
+}
